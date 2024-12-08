@@ -1,1 +1,0 @@
-import(/app/template/components/site.tpl)

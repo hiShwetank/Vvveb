@@ -1,1 +1,0 @@
-import(content/_comments.tpl, {"type":"product_question", "list": "product_questions"})
